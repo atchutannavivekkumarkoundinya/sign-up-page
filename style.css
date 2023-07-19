@@ -1,0 +1,22 @@
+body{
+    background-color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+}
+.para{
+    background-color: #F2EAD3;
+    display: grid;
+    grid-template: 50%/50%;
+}
+
+img{
+    display: grid;
+    grid-template: 50% /50% ;
+   
+}
+
+.nav{
+    display: flex;
+   justify-content: flex-end;
+   font-family: sans-serif;
+}
